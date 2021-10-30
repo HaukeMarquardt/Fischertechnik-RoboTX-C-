@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ButtonChangedEventArgs class">
+    <HelpKINode Title="ButtonChangedEventArgs Class" Url="html/6CC7758E.htm" />
+    <HelpKINode Title="about ButtonChangedEventArgs class" Url="html/6CC7758E.htm" />
+    <HelpKINode Title="constructor" Url="html/84D2CF78.htm" />
+    <HelpKINode Title="properties" Url="html/8F70C424.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ButtonChangedEventArgs.ButtonChangedEventArgs constructor" Url="html/84D2CF78.htm" />
+  <HelpKINode Title="ButtonChangedEventArgs.buttonId property" Url="html/AC63A3A0.htm" />
+  <HelpKINode Title="ButtonChangedEventArgs.devId property" Url="html/7C68F091.htm" />
+  <HelpKINode Title="ButtonChangedEventArgs.duration property" Url="html/85C6E877.htm" />
+  <HelpKINode Title="ButtonChangedEventArgs.pressed property" Url="html/6D8A0514.htm" />
+  <HelpKINode Title="buttonId property" Url="html/AC63A3A0.htm" />
+  <HelpKINode Title="C1 enumeration member" Url="html/92E91C02.htm" />
+  <HelpKINode Title="C2 enumeration member" Url="html/92E91C02.htm" />
+  <HelpKINode Title="C3 enumeration member" Url="html/92E91C02.htm" />
+  <HelpKINode Title="C4 enumeration member" Url="html/92E91C02.htm" />
+  <HelpKINode Title="CCW enumeration member" Url="html/36A77E4E.htm" />
+  <HelpKINode Title="CloseConnection method" Url="html/6DA1E14B.htm" />
+  <HelpKINode Title="cntId property">
+    <HelpKINode Title="CntInputChangedEventArgs.cntId Property " Url="html/B1C2355F.htm" />
+    <HelpKINode Title="CounterChangedEventArgs.cntId Property " Url="html/D4551BF3.htm" />
+    <HelpKINode Title="CounterResettedEventArgs.cntId Property " Url="html/41CD0D44.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CntInputChangedEventArgs class">
+    <HelpKINode Title="CntInputChangedEventArgs Class" Url="html/9BAB626F.htm" />
+    <HelpKINode Title="about CntInputChangedEventArgs class" Url="html/9BAB626F.htm" />
+    <HelpKINode Title="constructor" Url="html/889BCA36.htm" />
+    <HelpKINode Title="properties" Url="html/630ADBAA.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CntInputChangedEventArgs.cntId property" Url="html/B1C2355F.htm" />
+  <HelpKINode Title="CntInputChangedEventArgs.CntInputChangedEventArgs constructor" Url="html/889BCA36.htm" />
+  <HelpKINode Title="CntInputChangedEventArgs.devId property" Url="html/BEAF6D3A.htm" />
+  <HelpKINode Title="CntInputChangedEventArgs.state property" Url="html/9B829DF7.htm" />
+  <HelpKINode Title="count property" Url="html/A658A775.htm" />
+  <HelpKINode Title="CounterChangedEventArgs class">
+    <HelpKINode Title="CounterChangedEventArgs Class" Url="html/CC7C6773.htm" />
+    <HelpKINode Title="about CounterChangedEventArgs class" Url="html/CC7C6773.htm" />
+    <HelpKINode Title="constructor" Url="html/E3147A49.htm" />
+    <HelpKINode Title="properties" Url="html/C194F8B.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CounterChangedEventArgs.cntId property" Url="html/D4551BF3.htm" />
+  <HelpKINode Title="CounterChangedEventArgs.count property" Url="html/A658A775.htm" />
+  <HelpKINode Title="CounterChangedEventArgs.CounterChangedEventArgs constructor" Url="html/E3147A49.htm" />
+  <HelpKINode Title="CounterChangedEventArgs.devId property" Url="html/A3AD3566.htm" />
+  <HelpKINode Title="CounterChangedEventArgs.mode property" Url="html/7CCBA76C.htm" />
+  <HelpKINode Title="CounterResettedEventArgs class">
+    <HelpKINode Title="CounterResettedEventArgs Class" Url="html/1B5C7E45.htm" />
+    <HelpKINode Title="about CounterResettedEventArgs class" Url="html/1B5C7E45.htm" />
+    <HelpKINode Title="constructor" Url="html/9C486CF.htm" />
+    <HelpKINode Title="properties" Url="html/6B665285.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CounterResettedEventArgs.cntId property" Url="html/41CD0D44.htm" />
+  <HelpKINode Title="CounterResettedEventArgs.CounterResettedEventArgs constructor" Url="html/9C486CF.htm" />
+  <HelpKINode Title="CounterResettedEventArgs.devId property" Url="html/679EEE7D.htm" />
+  <HelpKINode Title="CounterResettedEventArgs.state property" Url="html/BF13F18E.htm" />
+  <HelpKINode Title="CW enumeration member" Url="html/36A77E4E.htm" />
+  <HelpKINode Title="devId property">
+    <HelpKINode Title="ButtonChangedEventArgs.devId Property " Url="html/7C68F091.htm" />
+    <HelpKINode Title="CntInputChangedEventArgs.devId Property " Url="html/BEAF6D3A.htm" />
+    <HelpKINode Title="CounterChangedEventArgs.devId Property " Url="html/A3AD3566.htm" />
+    <HelpKINode Title="CounterResettedEventArgs.devId Property " Url="html/679EEE7D.htm" />
+    <HelpKINode Title="InputChangedEventArgs.devId Property " Url="html/707710C8.htm" />
+    <HelpKINode Title="MotorReachedEventArgs.devId Property " Url="html/DE8AAE70.htm" />
+  </HelpKINode>
+  <HelpKINode Title="digital property" Url="html/9E229411.htm" />
+  <HelpKINode Title="dllPath field" Url="html/588D31.htm" />
+  <HelpKINode Title="duration property" Url="html/85C6E877.htm" />
+  <HelpKINode Title="EnableCBMaskCntInChanged method" Url="html/9EF29265.htm" />
+  <HelpKINode Title="EnableCBMaskCounterChanged method" Url="html/40584760.htm" />
+  <HelpKINode Title="EnableCBMaskUniChanged method" Url="html/BCB620F6.htm" />
+  <HelpKINode Title="Extension01 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension02 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension03 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension04 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension05 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension06 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension07 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension08 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="Extension09 enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API namespace" Url="html/49D92C23.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx class" Url="html/61AC1628.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx.OnButtonChangedEventHandler delegate" Url="html/2F52BE30.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx.OnCntInputChangedEventHandler delegate" Url="html/B7F7536B.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx.OnCounterChangedEventHandler delegate" Url="html/5FDA85EB.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx.OnCounterResettedEventHandler delegate" Url="html/4DECA81E.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx.OnInputChangedEventHandler delegate" Url="html/A2796303.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibEx.OnMotorExReachedEventHandler delegate" Url="html/F5323526.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase class" Url="html/DC8A6005.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBButtonChanged delegate" Url="html/5E2F5542.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBCntInChanged delegate" Url="html/D28C2AB2.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBCounterChanged delegate" Url="html/D4996353.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBUniChanged delegate" Url="html/C80AF09A.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCounterResetted delegate" Url="html/F7F83B0E.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateMotorExReached delegate" Url="html/D4433DD7.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations namespace" Url="html/6DC1269F.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtCntMode enumeration" Url="html/593D1ED2.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtDeviceID enumeration" Url="html/D472B19E.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtFastCounterInput enumeration" Url="html/92E91C02.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtInput enumeration" Url="html/F86F3431.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtInputMode enumeration" Url="html/9EDB13D7.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtMotor enumeration" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtMotorDirection enumeration" Url="html/36A77E4E.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtOutput enumeration" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Enumurations.FtOutputStatus enumeration" Url="html/723C4EB2.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Errors namespace" Url="html/B175C9A3.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Errors.FtError class" Url="html/50DC9C6F.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Errors.FtErrorBluetooth class" Url="html/BE891797.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Errors.FtErrorI2C class" Url="html/37C330F9.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Errors.FtErrorUpload class" Url="html/936C5DA9.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events namespace" Url="html/54FC0E0C.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events.ButtonChangedEventArgs class" Url="html/6CC7758E.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events.CntInputChangedEventArgs class" Url="html/9BAB626F.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events.CounterChangedEventArgs class" Url="html/CC7C6773.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events.CounterResettedEventArgs class" Url="html/1B5C7E45.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events.InputChangedEventArgs class" Url="html/5D3384F.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Events.MotorReachedEventArgs class" Url="html/5DFFCC53.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Exception namespace" Url="html/E8EF6396.htm" />
+  <HelpKINode Title="FischerTechnik.FtMscLib.Exception.FtMscLibException class" Url="html/87859D24.htm" />
+  <HelpKINode Title="FtCntMode enumeration" Url="html/593D1ED2.htm" />
+  <HelpKINode Title="FtDeviceID enumeration" Url="html/D472B19E.htm" />
+  <HelpKINode Title="FtError class">
+    <HelpKINode Title="FtError Class" Url="html/50DC9C6F.htm" />
+    <HelpKINode Title="about FtError class" Url="html/50DC9C6F.htm" />
+    <HelpKINode Title="constructor" Url="html/B8D90EE4.htm" />
+    <HelpKINode Title="fields" Url="html/7B44BB5B.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtError.FtError constructor" Url="html/B8D90EE4.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_CREATE_EVENT field" Url="html/A1B55181.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_CREATE_MM_TIMER field" Url="html/B64587B0.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_DEVICE_IS_OPEN field" Url="html/439B5EBD.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_DEVICE_NOT_OPEN field" Url="html/895D68C9.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_FAILED field" Url="html/CCCB3CC3.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_INVALID_PARAM field" Url="html/36B60C5.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_LIB_IS_INITIALIZED field" Url="html/C8607322.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_LIB_IS_NOT_INITIALIZED field" Url="html/A0208A93.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_NO_MEMORY field" Url="html/8C4708AB.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_NO_SUCH_DEVICE_INSTANCE field" Url="html/E7F26112.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_SOME_DEVICES_ARE_OPEN field" Url="html/226A8ED2.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_SUCCESS field" Url="html/BF8E2A1B.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_THREAD_IS_RUNNING field" Url="html/978F422C.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_THREAD_NOT_RUNNING field" Url="html/B7537B8E.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_THREAD_NOT_STARTABLE field" Url="html/E8CC4BB4.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_THREAD_SYNCHRONIZED field" Url="html/166FCF77.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_TIMEOUT field" Url="html/50BB6C07.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_TIMEOUT_TA field" Url="html/1C9DB8CC.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_UNKNOWN field" Url="html/F4072475.htm" />
+  <HelpKINode Title="FtError.FTLIB_ERR_UNKNOWN_DEVICE_HANDLE field" Url="html/A495BA8C.htm" />
+  <HelpKINode Title="FtErrorBluetooth class">
+    <HelpKINode Title="FtErrorBluetooth Class" Url="html/BE891797.htm" />
+    <HelpKINode Title="about FtErrorBluetooth class" Url="html/BE891797.htm" />
+    <HelpKINode Title="constructor" Url="html/A1E4C389.htm" />
+    <HelpKINode Title="fields" Url="html/A761A3BC.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtErrorBluetooth.FtErrorBluetooth constructor" Url="html/A1E4C389.htm" />
+  <HelpKINode Title="FtErrorBluetooth.FTLIB_BT_CON_ACTIVE field" Url="html/FF7B2106.htm" />
+  <HelpKINode Title="FtErrorBluetooth.FTLIB_BT_CON_INACTIVE field" Url="html/CE3EC8B3.htm" />
+  <HelpKINode Title="FtErrorBluetooth.FTLIB_BT_CON_NOT_EXISTS field" Url="html/94CB4B18.htm" />
+  <HelpKINode Title="FtErrorBluetooth.FTLIB_BT_CON_WAIT_BUSY field" Url="html/4D89A845.htm" />
+  <HelpKINode Title="FtErrorBluetooth.FTLIB_BT_CON_WRONG_ADDR field" Url="html/6838A183.htm" />
+  <HelpKINode Title="FtErrorBluetooth.FTLIB_BT_INVALID_CONIDX field" Url="html/C87CF942.htm" />
+  <HelpKINode Title="FtErrorI2C class">
+    <HelpKINode Title="FtErrorI2C Class" Url="html/37C330F9.htm" />
+    <HelpKINode Title="about FtErrorI2C class" Url="html/37C330F9.htm" />
+    <HelpKINode Title="constructor" Url="html/27346CD.htm" />
+    <HelpKINode Title="fields" Url="html/7CCFB1A7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtErrorI2C.FtErrorI2C constructor" Url="html/27346CD.htm" />
+  <HelpKINode Title="FtErrorI2C.FTLIB_I2C_INVALID_DEV_ADDR field" Url="html/AA660B8D.htm" />
+  <HelpKINode Title="FtErrorI2C.FTLIB_I2C_INVALID_FLAGS_ADDRMODE field" Url="html/F4D671FD.htm" />
+  <HelpKINode Title="FtErrorI2C.FTLIB_I2C_INVALID_FLAGS_DATAMODE field" Url="html/DCFBF1F0.htm" />
+  <HelpKINode Title="FtErrorI2C.FTLIB_I2C_INVALID_FLAGS_ERRMODE field" Url="html/4C27FA9A.htm" />
+  <HelpKINode Title="FtErrorUpload class">
+    <HelpKINode Title="FtErrorUpload Class" Url="html/936C5DA9.htm" />
+    <HelpKINode Title="about FtErrorUpload class" Url="html/936C5DA9.htm" />
+    <HelpKINode Title="constructor" Url="html/96B10713.htm" />
+    <HelpKINode Title="fields" Url="html/75A34B84.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtErrorUpload.FtErrorUpload constructor" Url="html/96B10713.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_ACCESS_DENIED field" Url="html/9CE7AC67.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_FWUPD_GET_FILES field" Url="html/65ED1A10.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_FWUPD_NO_FILES field" Url="html/D1994B9C.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_INIT_COM field" Url="html/AAFD92B1.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_INIT_COM_TIMEOUT field" Url="html/BC00615C.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_OPEN_COM field" Url="html/E5CC3EF5.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_REM_CMD_FAILED field" Url="html/F8530C3F.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_REM_CMD_NOT_SUPPORTED field" Url="html/1B10D7DB.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_ACK field" Url="html/93C2250E.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_CANCELED field" Url="html/13F4A28B.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_DONE field" Url="html/F8A9DE04.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_FAILED field" Url="html/A9BE6B24.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_FILE_NOT_OPEN field" Url="html/68C898AD.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_FILE_READ_ERR field" Url="html/BBD4BA99.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_FLASHWRITE field" Url="html/A297910C.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_INVALID_FSIZE field" Url="html/180FDB26.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_NAK field" Url="html/93C02501.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_START field" Url="html/AD35C438.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_UPLOAD_TIMEOUT field" Url="html/1778DA1C.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_ERR_WRONG_HOSTNAME_LEN field" Url="html/A9280DAE.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_CLEAN_DISK field" Url="html/CF921226.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_ERR_FILE_READ field" Url="html/FB719DC1.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_FINISHED field" Url="html/8404E6D4.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_FLUSH_DISK field" Url="html/1944EFEC.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_IZ_STEPS field" Url="html/FE4DC485.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_REM_COMMAND field" Url="html/AB0B14A8.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_REM_FAILED field" Url="html/3766A141.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_REM_TIMEOUT field" Url="html/D4866F6D.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_STARTING field" Url="html/DFFFCD2A.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_STEP field" Url="html/B944195B.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_TIMEOUT field" Url="html/ECA7F9F4.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_UPLOAD_DONE field" Url="html/50A3336F.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_UPLOAD_FAILED field" Url="html/4FB7F9BB.htm" />
+  <HelpKINode Title="FtErrorUpload.FTLIB_FWUPD_UPLOAD_START field" Url="html/DDB3DBFF.htm" />
+  <HelpKINode Title="FtFastCounterInput enumeration" Url="html/92E91C02.htm" />
+  <HelpKINode Title="FtInput enumeration" Url="html/F86F3431.htm" />
+  <HelpKINode Title="FtInputMode enumeration" Url="html/9EDB13D7.htm" />
+  <HelpKINode Title="FTLIB_BT_CON_ACTIVE field" Url="html/FF7B2106.htm" />
+  <HelpKINode Title="FTLIB_BT_CON_INACTIVE field" Url="html/CE3EC8B3.htm" />
+  <HelpKINode Title="FTLIB_BT_CON_NOT_EXISTS field" Url="html/94CB4B18.htm" />
+  <HelpKINode Title="FTLIB_BT_CON_WAIT_BUSY field" Url="html/4D89A845.htm" />
+  <HelpKINode Title="FTLIB_BT_CON_WRONG_ADDR field" Url="html/6838A183.htm" />
+  <HelpKINode Title="FTLIB_BT_INVALID_CONIDX field" Url="html/C87CF942.htm" />
+  <HelpKINode Title="FTLIB_ERR_ACCESS_DENIED field" Url="html/9CE7AC67.htm" />
+  <HelpKINode Title="FTLIB_ERR_CREATE_EVENT field" Url="html/A1B55181.htm" />
+  <HelpKINode Title="FTLIB_ERR_CREATE_MM_TIMER field" Url="html/B64587B0.htm" />
+  <HelpKINode Title="FTLIB_ERR_DEVICE_IS_OPEN field" Url="html/439B5EBD.htm" />
+  <HelpKINode Title="FTLIB_ERR_DEVICE_NOT_OPEN field" Url="html/895D68C9.htm" />
+  <HelpKINode Title="FTLIB_ERR_FAILED field" Url="html/CCCB3CC3.htm" />
+  <HelpKINode Title="FTLIB_ERR_FWUPD_GET_FILES field" Url="html/65ED1A10.htm" />
+  <HelpKINode Title="FTLIB_ERR_FWUPD_NO_FILES field" Url="html/D1994B9C.htm" />
+  <HelpKINode Title="FTLIB_ERR_INIT_COM field" Url="html/AAFD92B1.htm" />
+  <HelpKINode Title="FTLIB_ERR_INIT_COM_TIMEOUT field" Url="html/BC00615C.htm" />
+  <HelpKINode Title="FTLIB_ERR_INVALID_PARAM field" Url="html/36B60C5.htm" />
+  <HelpKINode Title="FTLIB_ERR_LIB_IS_INITIALIZED field" Url="html/C8607322.htm" />
+  <HelpKINode Title="FTLIB_ERR_LIB_IS_NOT_INITIALIZED field" Url="html/A0208A93.htm" />
+  <HelpKINode Title="FTLIB_ERR_NO_MEMORY field" Url="html/8C4708AB.htm" />
+  <HelpKINode Title="FTLIB_ERR_NO_SUCH_DEVICE_INSTANCE field" Url="html/E7F26112.htm" />
+  <HelpKINode Title="FTLIB_ERR_OPEN_COM field" Url="html/E5CC3EF5.htm" />
+  <HelpKINode Title="FTLIB_ERR_REM_CMD_FAILED field" Url="html/F8530C3F.htm" />
+  <HelpKINode Title="FTLIB_ERR_REM_CMD_NOT_SUPPORTED field" Url="html/1B10D7DB.htm" />
+  <HelpKINode Title="FTLIB_ERR_SOME_DEVICES_ARE_OPEN field" Url="html/226A8ED2.htm" />
+  <HelpKINode Title="FTLIB_ERR_SUCCESS field" Url="html/BF8E2A1B.htm" />
+  <HelpKINode Title="FTLIB_ERR_THREAD_IS_RUNNING field" Url="html/978F422C.htm" />
+  <HelpKINode Title="FTLIB_ERR_THREAD_NOT_RUNNING field" Url="html/B7537B8E.htm" />
+  <HelpKINode Title="FTLIB_ERR_THREAD_NOT_STARTABLE field" Url="html/E8CC4BB4.htm" />
+  <HelpKINode Title="FTLIB_ERR_THREAD_SYNCHRONIZED field" Url="html/166FCF77.htm" />
+  <HelpKINode Title="FTLIB_ERR_TIMEOUT field" Url="html/50BB6C07.htm" />
+  <HelpKINode Title="FTLIB_ERR_TIMEOUT_TA field" Url="html/1C9DB8CC.htm" />
+  <HelpKINode Title="FTLIB_ERR_UNKNOWN field" Url="html/F4072475.htm" />
+  <HelpKINode Title="FTLIB_ERR_UNKNOWN_DEVICE_HANDLE field" Url="html/A495BA8C.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_ACK field" Url="html/93C2250E.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_CANCELED field" Url="html/13F4A28B.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_DONE field" Url="html/F8A9DE04.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_FAILED field" Url="html/A9BE6B24.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_FILE_NOT_OPEN field" Url="html/68C898AD.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_FILE_READ_ERR field" Url="html/BBD4BA99.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_FLASHWRITE field" Url="html/A297910C.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_INVALID_FSIZE field" Url="html/180FDB26.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_NAK field" Url="html/93C02501.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_START field" Url="html/AD35C438.htm" />
+  <HelpKINode Title="FTLIB_ERR_UPLOAD_TIMEOUT field" Url="html/1778DA1C.htm" />
+  <HelpKINode Title="FTLIB_ERR_WRONG_HOSTNAME_LEN field" Url="html/A9280DAE.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_CLEAN_DISK field" Url="html/CF921226.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_ERR_FILE_READ field" Url="html/FB719DC1.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_FINISHED field" Url="html/8404E6D4.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_FLUSH_DISK field" Url="html/1944EFEC.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_IZ_STEPS field" Url="html/FE4DC485.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_REM_COMMAND field" Url="html/AB0B14A8.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_REM_FAILED field" Url="html/3766A141.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_REM_TIMEOUT field" Url="html/D4866F6D.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_STARTING field" Url="html/DFFFCD2A.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_STEP field" Url="html/B944195B.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_TIMEOUT field" Url="html/ECA7F9F4.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_UPLOAD_DONE field" Url="html/50A3336F.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_UPLOAD_FAILED field" Url="html/4FB7F9BB.htm" />
+  <HelpKINode Title="FTLIB_FWUPD_UPLOAD_START field" Url="html/DDB3DBFF.htm" />
+  <HelpKINode Title="FTLIB_I2C_INVALID_DEV_ADDR field" Url="html/AA660B8D.htm" />
+  <HelpKINode Title="FTLIB_I2C_INVALID_FLAGS_ADDRMODE field" Url="html/F4D671FD.htm" />
+  <HelpKINode Title="FTLIB_I2C_INVALID_FLAGS_DATAMODE field" Url="html/DCFBF1F0.htm" />
+  <HelpKINode Title="FTLIB_I2C_INVALID_FLAGS_ERRMODE field" Url="html/4C27FA9A.htm" />
+  <HelpKINode Title="FtMotor enumeration" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="FtMotorDirection enumeration" Url="html/36A77E4E.htm" />
+  <HelpKINode Title="FtMscLibEx class">
+    <HelpKINode Title="FtMscLibEx Class" Url="html/61AC1628.htm" />
+    <HelpKINode Title="about FtMscLibEx class" Url="html/61AC1628.htm" />
+    <HelpKINode Title="constructor" Url="html/370ACD85.htm" />
+    <HelpKINode Title="events" Url="html/4CF0AFDD.htm" />
+    <HelpKINode Title="methods" Url="html/8FF4673D.htm" />
+    <HelpKINode Title="properties" Url="html/C94F32A5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtMscLibEx.CloseConnection method" Url="html/6DA1E14B.htm" />
+  <HelpKINode Title="FtMscLibEx.EnableCBMaskCntInChanged method" Url="html/9EF29265.htm" />
+  <HelpKINode Title="FtMscLibEx.EnableCBMaskCounterChanged method" Url="html/40584760.htm" />
+  <HelpKINode Title="FtMscLibEx.EnableCBMaskUniChanged method" Url="html/BCB620F6.htm" />
+  <HelpKINode Title="FtMscLibEx.FtMscLibEx constructor" Url="html/370ACD85.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxCloseAllDevices method" Url="html/E939A287.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxCloseDevice method" Url="html/DEDB1313.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxCloseLib method" Url="html/F6F7BA4C.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxEnumComPorts method" Url="html/113D658E.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetAvailableComPorts method" Url="html/A88E8075.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetFirmwareStrg method" Url="html/98ECDE33.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetLibErrorString method" Url="html/E69844F5.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetLibVersion method" Url="html/F7D8A379.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetLibVersionStr method" Url="html/54A66943.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetLongNameStrg method" Url="html/945A907E.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetManufacturerStrg method" Url="html/EC7E06E6.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetSerialNrStrg method" Url="html/B3A3EA3C.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxGetShortNameStrg method" Url="html/A102161B.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxInitLib method" Url="html/85B66444.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxIsHandleValid method" Url="html/8D7FAA06.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxIsLibInit method" Url="html/66FA5AE7.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxIsTransferActiv method" Url="html/10C762D0.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxOpenComDevice method" Url="html/D0D3CA46.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxOpenComDeviceNr method" Url="html/C9C2045.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxStartTransferArea method" Url="html/167B8F59.htm" />
+  <HelpKINode Title="FtMscLibEx.ftxStopTransferArea method" Url="html/9F35C458.htm" />
+  <HelpKINode Title="FtMscLibEx.GetCBMaskCntInChanged method" Url="html/C24D305A.htm" />
+  <HelpKINode Title="FtMscLibEx.GetCBMaskCounterChanged method" Url="html/CC3F0297.htm" />
+  <HelpKINode Title="FtMscLibEx.GetCBMaskUniChanged method" Url="html/C98E3DCE.htm" />
+  <HelpKINode Title="FtMscLibEx.GetComStatus method" Url="html/227D414.htm" />
+  <HelpKINode Title="FtMscLibEx.GetDeviceInfo method" Url="html/CB5BD007.htm" />
+  <HelpKINode Title="FtMscLibEx.GetInCounterValue method" Url="html/DAB14EBF.htm" />
+  <HelpKINode Title="FtMscLibEx.GetInDisplayButtonValue method" Url="html/46B202B3.htm" />
+  <HelpKINode Title="FtMscLibEx.GetInIOValue method" Url="html/E2448872.htm" />
+  <HelpKINode Title="FtMscLibEx.GetRoboTxDevName method" Url="html/B9A8BE79.htm" />
+  <HelpKINode Title="FtMscLibEx.GetRoboTxDllStr method" Url="html/53715A74.htm" />
+  <HelpKINode Title="FtMscLibEx.GetRoboTxFwStr method" Url="html/7C6DD8C5.htm" />
+  <HelpKINode Title="FtMscLibEx.GetRoboTxFwVal method" Url="html/D6EB66D0.htm" />
+  <HelpKINode Title="FtMscLibEx.GetRoboTxHwStr method" Url="html/780623F7.htm" />
+  <HelpKINode Title="FtMscLibEx.GetRoboTxSerialStr method" Url="html/FBC15CE9.htm" />
+  <HelpKINode Title="FtMscLibEx.IsCBMaskCntInChangedEnabled method" Url="html/3BECAC51.htm" />
+  <HelpKINode Title="FtMscLibEx.IsCBMaskCounterChangedEnabled method" Url="html/FF1BDC3.htm" />
+  <HelpKINode Title="FtMscLibEx.IsCBMaskUniChangedEnabled method" Url="html/ABD61CD7.htm" />
+  <HelpKINode Title="FtMscLibEx.OnButtonChanged event" Url="html/B0680E52.htm" />
+  <HelpKINode Title="FtMscLibEx.OnButtonChangedEventHandler delegate" Url="html/2F52BE30.htm" />
+  <HelpKINode Title="FtMscLibEx.OnCntInputChanged event" Url="html/ECAD0610.htm" />
+  <HelpKINode Title="FtMscLibEx.OnCntInputChangedEventHandler delegate" Url="html/B7F7536B.htm" />
+  <HelpKINode Title="FtMscLibEx.OnCounterChanged event" Url="html/2BC30961.htm" />
+  <HelpKINode Title="FtMscLibEx.OnCounterChangedEventHandler delegate" Url="html/5FDA85EB.htm" />
+  <HelpKINode Title="FtMscLibEx.OnCounterResetted event" Url="html/25473CCE.htm" />
+  <HelpKINode Title="FtMscLibEx.OnCounterResettedEventHandler delegate" Url="html/4DECA81E.htm" />
+  <HelpKINode Title="FtMscLibEx.OnInputChanged event" Url="html/C01A9E86.htm" />
+  <HelpKINode Title="FtMscLibEx.OnInputChangedEventHandler delegate" Url="html/A2796303.htm" />
+  <HelpKINode Title="FtMscLibEx.OnMotorExReached event" Url="html/BEC13479.htm" />
+  <HelpKINode Title="FtMscLibEx.OnMotorExReachedEventHandler delegate" Url="html/F5323526.htm" />
+  <HelpKINode Title="FtMscLibEx.OpenConnection method" Url="html/95D40A83.htm" />
+  <HelpKINode Title="FtMscLibEx.ResetMotorExConfig method" Url="html/BCB2C878.htm" />
+  <HelpKINode Title="FtMscLibEx.SetCBCounterResetted method" Url="html/2F8B779C.htm" />
+  <HelpKINode Title="FtMscLibEx.SetCBMaskCntInChanged method" Url="html/A090DFCA.htm" />
+  <HelpKINode Title="FtMscLibEx.SetCBMaskCounterChanged method" Url="html/886ABEAC.htm" />
+  <HelpKINode Title="FtMscLibEx.SetCBMaskUniChanged method" Url="html/BFB23F7D.htm" />
+  <HelpKINode Title="FtMscLibEx.SetFtCntConfig method" Url="html/A32E1141.htm" />
+  <HelpKINode Title="FtMscLibEx.SetFtMotorConfig method" Url="html/8C5851DF.htm" />
+  <HelpKINode Title="FtMscLibEx.SetFtUniConfig method" Url="html/E991B72A.htm" />
+  <HelpKINode Title="FtMscLibEx.SetOutMotorValues method" Url="html/2DD1F7FB.htm" />
+  <HelpKINode Title="FtMscLibEx.SetOutPwmValues method" Url="html/DBA95926.htm" />
+  <HelpKINode Title="FtMscLibEx.StartCounterReset method" Url="html/642EAF79.htm" />
+  <HelpKINode Title="FtMscLibEx.StartMotorExCmd method" Url="html/3CE08003.htm" />
+  <HelpKINode Title="FtMscLibEx.StartMotorExCmd4 method" Url="html/FDD8C71B.htm" />
+  <HelpKINode Title="FtMscLibEx.StartTransferArea method" Url="html/30722A77.htm" />
+  <HelpKINode Title="FtMscLibEx.StopAllMotorExCmd method" Url="html/3CBD44E5.htm" />
+  <HelpKINode Title="FtMscLibEx.StopMotorExCmd method" Url="html/D4D8F628.htm" />
+  <HelpKINode Title="FtMscLibEx.StopTransferArea method" Url="html/DA008779.htm" />
+  <HelpKINode Title="FtMscLibEx._FtHdl property" Url="html/204FA17D.htm" />
+  <HelpKINode Title="FtMscLibExBase class">
+    <HelpKINode Title="FtMscLibExBase Class" Url="html/DC8A6005.htm" />
+    <HelpKINode Title="about FtMscLibExBase class" Url="html/DC8A6005.htm" />
+    <HelpKINode Title="fields" Url="html/2D601F86.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtMscLibExBase.DelegateCBButtonChanged delegate" Url="html/5E2F5542.htm" />
+  <HelpKINode Title="FtMscLibExBase.DelegateCBCntInChanged delegate" Url="html/D28C2AB2.htm" />
+  <HelpKINode Title="FtMscLibExBase.DelegateCBCounterChanged delegate" Url="html/D4996353.htm" />
+  <HelpKINode Title="FtMscLibExBase.DelegateCBUniChanged delegate" Url="html/C80AF09A.htm" />
+  <HelpKINode Title="FtMscLibExBase.DelegateCounterResetted delegate" Url="html/F7F83B0E.htm" />
+  <HelpKINode Title="FtMscLibExBase.DelegateMotorExReached delegate" Url="html/D4433DD7.htm" />
+  <HelpKINode Title="FtMscLibExBase.dllPath field" Url="html/588D31.htm" />
+  <HelpKINode Title="FtMscLibException class">
+    <HelpKINode Title="FtMscLibException Class" Url="html/87859D24.htm" />
+    <HelpKINode Title="about FtMscLibException class" Url="html/87859D24.htm" />
+    <HelpKINode Title="constructor" Url="html/EA31FB54.htm" />
+    <HelpKINode Title="methods" Url="html/4B0F0F49.htm" />
+    <HelpKINode Title="properties" Url="html/D27B2E38.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtMscLibException.FtMscLibException constructor" Url="html/EA31FB54.htm" />
+  <HelpKINode Title="FtOutput enumeration" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="FtOutputStatus enumeration" Url="html/723C4EB2.htm" />
+  <HelpKINode Title="ftxCloseAllDevices method" Url="html/E939A287.htm" />
+  <HelpKINode Title="ftxCloseDevice method" Url="html/DEDB1313.htm" />
+  <HelpKINode Title="ftxCloseLib method" Url="html/F6F7BA4C.htm" />
+  <HelpKINode Title="ftxEnumComPorts method" Url="html/113D658E.htm" />
+  <HelpKINode Title="ftxGetAvailableComPorts method" Url="html/A88E8075.htm" />
+  <HelpKINode Title="ftxGetFirmwareStrg method" Url="html/98ECDE33.htm" />
+  <HelpKINode Title="ftxGetLibErrorString method" Url="html/E69844F5.htm" />
+  <HelpKINode Title="ftxGetLibVersion method" Url="html/F7D8A379.htm" />
+  <HelpKINode Title="ftxGetLibVersionStr method" Url="html/54A66943.htm" />
+  <HelpKINode Title="ftxGetLongNameStrg method" Url="html/945A907E.htm" />
+  <HelpKINode Title="ftxGetManufacturerStrg method" Url="html/EC7E06E6.htm" />
+  <HelpKINode Title="ftxGetSerialNrStrg method" Url="html/B3A3EA3C.htm" />
+  <HelpKINode Title="ftxGetShortNameStrg method" Url="html/A102161B.htm" />
+  <HelpKINode Title="ftxInitLib method" Url="html/85B66444.htm" />
+  <HelpKINode Title="ftxIsHandleValid method" Url="html/8D7FAA06.htm" />
+  <HelpKINode Title="ftxIsLibInit method" Url="html/66FA5AE7.htm" />
+  <HelpKINode Title="ftxIsTransferActiv method" Url="html/10C762D0.htm" />
+  <HelpKINode Title="ftxOpenComDevice method" Url="html/D0D3CA46.htm" />
+  <HelpKINode Title="ftxOpenComDeviceNr method" Url="html/C9C2045.htm" />
+  <HelpKINode Title="ftxStartTransferArea method" Url="html/167B8F59.htm" />
+  <HelpKINode Title="ftxStopTransferArea method" Url="html/9F35C458.htm" />
+  <HelpKINode Title="GetCBMaskCntInChanged method" Url="html/C24D305A.htm" />
+  <HelpKINode Title="GetCBMaskCounterChanged method" Url="html/CC3F0297.htm" />
+  <HelpKINode Title="GetCBMaskUniChanged method" Url="html/C98E3DCE.htm" />
+  <HelpKINode Title="GetComStatus method" Url="html/227D414.htm" />
+  <HelpKINode Title="GetDeviceInfo method" Url="html/CB5BD007.htm" />
+  <HelpKINode Title="GetInCounterValue method" Url="html/DAB14EBF.htm" />
+  <HelpKINode Title="GetInDisplayButtonValue method" Url="html/46B202B3.htm" />
+  <HelpKINode Title="GetInIOValue method" Url="html/E2448872.htm" />
+  <HelpKINode Title="GetRoboTxDevName method" Url="html/B9A8BE79.htm" />
+  <HelpKINode Title="GetRoboTxDllStr method" Url="html/53715A74.htm" />
+  <HelpKINode Title="GetRoboTxFwStr method" Url="html/7C6DD8C5.htm" />
+  <HelpKINode Title="GetRoboTxFwVal method" Url="html/D6EB66D0.htm" />
+  <HelpKINode Title="GetRoboTxHwStr method" Url="html/780623F7.htm" />
+  <HelpKINode Title="GetRoboTxSerialStr method" Url="html/FBC15CE9.htm" />
+  <HelpKINode Title="I1 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I2 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I3 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I4 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I5 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I6 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I7 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="I8 enumeration member" Url="html/F86F3431.htm" />
+  <HelpKINode Title="InputChangedEventArgs class">
+    <HelpKINode Title="InputChangedEventArgs Class" Url="html/5D3384F.htm" />
+    <HelpKINode Title="about InputChangedEventArgs class" Url="html/5D3384F.htm" />
+    <HelpKINode Title="constructor" Url="html/FC33ED50.htm" />
+    <HelpKINode Title="properties" Url="html/F25EB2E1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputChangedEventArgs.devId property" Url="html/707710C8.htm" />
+  <HelpKINode Title="InputChangedEventArgs.digital property" Url="html/9E229411.htm" />
+  <HelpKINode Title="InputChangedEventArgs.InputChangedEventArgs constructor" Url="html/FC33ED50.htm" />
+  <HelpKINode Title="InputChangedEventArgs.ioId property" Url="html/41A81F8D.htm" />
+  <HelpKINode Title="InputChangedEventArgs.mode property" Url="html/BEC7AAF2.htm" />
+  <HelpKINode Title="InputChangedEventArgs.overrun property" Url="html/3DE9C33D.htm" />
+  <HelpKINode Title="InputChangedEventArgs.value property" Url="html/A8CEF4A8.htm" />
+  <HelpKINode Title="INVERTED enumeration member" Url="html/593D1ED2.htm" />
+  <HelpKINode Title="ioId property" Url="html/41A81F8D.htm" />
+  <HelpKINode Title="IsCBMaskCntInChangedEnabled method" Url="html/3BECAC51.htm" />
+  <HelpKINode Title="IsCBMaskCounterChangedEnabled method" Url="html/FF1BDC3.htm" />
+  <HelpKINode Title="IsCBMaskUniChangedEnabled method" Url="html/ABD61CD7.htm" />
+  <HelpKINode Title="M1 enumeration member" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="M2 enumeration member" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="M3 enumeration member" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="M4 enumeration member" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="Master enumeration member" Url="html/D472B19E.htm" />
+  <HelpKINode Title="mode property">
+    <HelpKINode Title="CounterChangedEventArgs.mode Property " Url="html/7CCBA76C.htm" />
+    <HelpKINode Title="InputChangedEventArgs.mode Property " Url="html/BEC7AAF2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Motor enumeration member" Url="html/723C4EB2.htm" />
+  <HelpKINode Title="MotorReachedEventArgs class">
+    <HelpKINode Title="MotorReachedEventArgs Class" Url="html/5DFFCC53.htm" />
+    <HelpKINode Title="about MotorReachedEventArgs class" Url="html/5DFFCC53.htm" />
+    <HelpKINode Title="constructor" Url="html/7710A8DB.htm" />
+    <HelpKINode Title="properties" Url="html/EC60F7C2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MotorReachedEventArgs.devId property" Url="html/DE8AAE70.htm" />
+  <HelpKINode Title="MotorReachedEventArgs.MotorReachedEventArgs constructor" Url="html/7710A8DB.htm" />
+  <HelpKINode Title="MotorReachedEventArgs.mtrIdx property" Url="html/3585DCC2.htm" />
+  <HelpKINode Title="mtrIdx property" Url="html/3585DCC2.htm" />
+  <HelpKINode Title="NORMAL enumeration member" Url="html/593D1ED2.htm" />
+  <HelpKINode Title="NotUsed enumeration member" Url="html/C92CA8E6.htm" />
+  <HelpKINode Title="O1 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O2 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O3 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O4 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O5 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O6 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O7 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="O8 enumeration member" Url="html/B50A3F94.htm" />
+  <HelpKINode Title="OnButtonChanged event" Url="html/B0680E52.htm" />
+  <HelpKINode Title="OnCntInputChanged event" Url="html/ECAD0610.htm" />
+  <HelpKINode Title="OnCounterChanged event" Url="html/2BC30961.htm" />
+  <HelpKINode Title="OnCounterResetted event" Url="html/25473CCE.htm" />
+  <HelpKINode Title="OnInputChanged event" Url="html/C01A9E86.htm" />
+  <HelpKINode Title="OnMotorExReached event" Url="html/BEC13479.htm" />
+  <HelpKINode Title="OpenConnection method" Url="html/95D40A83.htm" />
+  <HelpKINode Title="Output enumeration member" Url="html/723C4EB2.htm" />
+  <HelpKINode Title="overrun property" Url="html/3DE9C33D.htm" />
+  <HelpKINode Title="pressed property" Url="html/6D8A0514.htm" />
+  <HelpKINode Title="ResetMotorExConfig method" Url="html/BCB2C878.htm" />
+  <HelpKINode Title="Resistance enumeration member" Url="html/9EDB13D7.htm" />
+  <HelpKINode Title="SetCBCounterResetted method" Url="html/2F8B779C.htm" />
+  <HelpKINode Title="SetCBMaskCntInChanged method" Url="html/A090DFCA.htm" />
+  <HelpKINode Title="SetCBMaskCounterChanged method" Url="html/886ABEAC.htm" />
+  <HelpKINode Title="SetCBMaskUniChanged method" Url="html/BFB23F7D.htm" />
+  <HelpKINode Title="SetFtCntConfig method" Url="html/A32E1141.htm" />
+  <HelpKINode Title="SetFtMotorConfig method" Url="html/8C5851DF.htm" />
+  <HelpKINode Title="SetFtUniConfig method" Url="html/E991B72A.htm" />
+  <HelpKINode Title="SetOutMotorValues method" Url="html/2DD1F7FB.htm" />
+  <HelpKINode Title="SetOutPwmValues method" Url="html/DBA95926.htm" />
+  <HelpKINode Title="StartCounterReset method" Url="html/642EAF79.htm" />
+  <HelpKINode Title="StartMotorExCmd method" Url="html/3CE08003.htm" />
+  <HelpKINode Title="StartMotorExCmd4 method" Url="html/FDD8C71B.htm" />
+  <HelpKINode Title="StartTransferArea method" Url="html/30722A77.htm" />
+  <HelpKINode Title="state property">
+    <HelpKINode Title="CntInputChangedEventArgs.state Property " Url="html/9B829DF7.htm" />
+    <HelpKINode Title="CounterResettedEventArgs.state Property " Url="html/BF13F18E.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StopAllMotorExCmd method" Url="html/3CBD44E5.htm" />
+  <HelpKINode Title="StopMotorExCmd method" Url="html/D4D8F628.htm" />
+  <HelpKINode Title="StopTransferArea method" Url="html/DA008779.htm" />
+  <HelpKINode Title="Ultrasonic enumeration member" Url="html/9EDB13D7.htm" />
+  <HelpKINode Title="value property" Url="html/A8CEF4A8.htm" />
+  <HelpKINode Title="Voltage enumeration member" Url="html/9EDB13D7.htm" />
+  <HelpKINode Title="_FtHdl property" Url="html/204FA17D.htm" />
+</HelpKI>

@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e570645e-bbb6-4494-85e6-1f87beb70789" Title="Fischeretechnik" Url="html/2D8A63CB.htm">
+    <HelpTOCNode Id="31954e42-e48c-4b15-9dab-7e57b2cf4145" Title="FischerTechnik.FtMscLib.API" Url="html/49D92C23.htm">
+      <HelpTOCNode Id="17400cd0-8500-46a2-9341-6838601cb8e9" Title="FtMscLibEx Class" Url="html/61AC1628.htm">
+        <HelpTOCNode Title="FtMscLibEx Constructor " Url="html/370ACD85.htm" />
+        <HelpTOCNode Id="e1ea550f-d105-4e1d-833d-60bfe5256511" Title="FtMscLibEx Methods" Url="html/8FF4673D.htm">
+          <HelpTOCNode Title="CloseConnection Method " Url="html/6DA1E14B.htm" />
+          <HelpTOCNode Title="EnableCBMaskCntInChanged Method " Url="html/9EF29265.htm" />
+          <HelpTOCNode Title="EnableCBMaskCounterChanged Method " Url="html/40584760.htm" />
+          <HelpTOCNode Title="EnableCBMaskUniChanged Method " Url="html/BCB620F6.htm" />
+          <HelpTOCNode Title="ftxCloseAllDevices Method " Url="html/E939A287.htm" />
+          <HelpTOCNode Title="ftxCloseDevice Method " Url="html/DEDB1313.htm" />
+          <HelpTOCNode Title="ftxCloseLib Method " Url="html/F6F7BA4C.htm" />
+          <HelpTOCNode Title="ftxEnumComPorts Method " Url="html/113D658E.htm" />
+          <HelpTOCNode Title="ftxGetAvailableComPorts Method " Url="html/A88E8075.htm" />
+          <HelpTOCNode Title="ftxGetFirmwareStrg Method " Url="html/98ECDE33.htm" />
+          <HelpTOCNode Title="ftxGetLibErrorString Method " Url="html/E69844F5.htm" />
+          <HelpTOCNode Title="ftxGetLibVersion Method " Url="html/F7D8A379.htm" />
+          <HelpTOCNode Title="ftxGetLibVersionStr Method " Url="html/54A66943.htm" />
+          <HelpTOCNode Title="ftxGetLongNameStrg Method " Url="html/945A907E.htm" />
+          <HelpTOCNode Title="ftxGetManufacturerStrg Method " Url="html/EC7E06E6.htm" />
+          <HelpTOCNode Title="ftxGetSerialNrStrg Method " Url="html/B3A3EA3C.htm" />
+          <HelpTOCNode Title="ftxGetShortNameStrg Method " Url="html/A102161B.htm" />
+          <HelpTOCNode Title="ftxInitLib Method " Url="html/85B66444.htm" />
+          <HelpTOCNode Title="ftxIsHandleValid Method " Url="html/8D7FAA06.htm" />
+          <HelpTOCNode Title="ftxIsLibInit Method " Url="html/66FA5AE7.htm" />
+          <HelpTOCNode Title="ftxIsTransferActiv Method " Url="html/10C762D0.htm" />
+          <HelpTOCNode Title="ftxOpenComDevice Method " Url="html/D0D3CA46.htm" />
+          <HelpTOCNode Title="ftxOpenComDeviceNr Method " Url="html/C9C2045.htm" />
+          <HelpTOCNode Title="ftxStartTransferArea Method " Url="html/167B8F59.htm" />
+          <HelpTOCNode Title="ftxStopTransferArea Method " Url="html/9F35C458.htm" />
+          <HelpTOCNode Title="GetCBMaskCntInChanged Method " Url="html/C24D305A.htm" />
+          <HelpTOCNode Title="GetCBMaskCounterChanged Method " Url="html/CC3F0297.htm" />
+          <HelpTOCNode Title="GetCBMaskUniChanged Method " Url="html/C98E3DCE.htm" />
+          <HelpTOCNode Title="GetComStatus Method " Url="html/227D414.htm" />
+          <HelpTOCNode Title="GetDeviceInfo Method " Url="html/CB5BD007.htm" />
+          <HelpTOCNode Title="GetInCounterValue Method " Url="html/DAB14EBF.htm" />
+          <HelpTOCNode Title="GetInDisplayButtonValue Method " Url="html/46B202B3.htm" />
+          <HelpTOCNode Title="GetInIOValue Method " Url="html/E2448872.htm" />
+          <HelpTOCNode Title="GetRoboTxDevName Method " Url="html/B9A8BE79.htm" />
+          <HelpTOCNode Title="GetRoboTxDllStr Method " Url="html/53715A74.htm" />
+          <HelpTOCNode Title="GetRoboTxFwStr Method " Url="html/7C6DD8C5.htm" />
+          <HelpTOCNode Title="GetRoboTxFwVal Method " Url="html/D6EB66D0.htm" />
+          <HelpTOCNode Title="GetRoboTxHwStr Method " Url="html/780623F7.htm" />
+          <HelpTOCNode Title="GetRoboTxSerialStr Method " Url="html/FBC15CE9.htm" />
+          <HelpTOCNode Title="IsCBMaskCntInChangedEnabled Method " Url="html/3BECAC51.htm" />
+          <HelpTOCNode Title="IsCBMaskCounterChangedEnabled Method " Url="html/FF1BDC3.htm" />
+          <HelpTOCNode Title="IsCBMaskUniChangedEnabled Method " Url="html/ABD61CD7.htm" />
+          <HelpTOCNode Title="OpenConnection Method " Url="html/95D40A83.htm" />
+          <HelpTOCNode Title="ResetMotorExConfig Method " Url="html/BCB2C878.htm" />
+          <HelpTOCNode Title="SetCBCounterResetted Method " Url="html/2F8B779C.htm" />
+          <HelpTOCNode Title="SetCBMaskCntInChanged Method " Url="html/A090DFCA.htm" />
+          <HelpTOCNode Title="SetCBMaskCounterChanged Method " Url="html/886ABEAC.htm" />
+          <HelpTOCNode Title="SetCBMaskUniChanged Method " Url="html/BFB23F7D.htm" />
+          <HelpTOCNode Title="SetFtCntConfig Method " Url="html/A32E1141.htm" />
+          <HelpTOCNode Title="SetFtMotorConfig Method " Url="html/8C5851DF.htm" />
+          <HelpTOCNode Title="SetFtUniConfig Method " Url="html/E991B72A.htm" />
+          <HelpTOCNode Title="SetOutMotorValues Method " Url="html/2DD1F7FB.htm" />
+          <HelpTOCNode Title="SetOutPwmValues Method " Url="html/DBA95926.htm" />
+          <HelpTOCNode Title="StartCounterReset Method " Url="html/642EAF79.htm" />
+          <HelpTOCNode Title="StartMotorExCmd Method " Url="html/3CE08003.htm" />
+          <HelpTOCNode Title="StartMotorExCmd4 Method " Url="html/FDD8C71B.htm" />
+          <HelpTOCNode Title="StartTransferArea Method " Url="html/30722A77.htm" />
+          <HelpTOCNode Title="StopAllMotorExCmd Method " Url="html/3CBD44E5.htm" />
+          <HelpTOCNode Title="StopMotorExCmd Method " Url="html/D4D8F628.htm" />
+          <HelpTOCNode Title="StopTransferArea Method " Url="html/DA008779.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3be8ce29-c6ea-4ffb-8f2b-e2aa0e358c1d" Title="FtMscLibEx Properties" Url="html/C94F32A5.htm">
+          <HelpTOCNode Title="_FtHdl Property " Url="html/204FA17D.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e587a999-efef-4c3b-9f5c-e56e04ced66e" Title="FtMscLibEx Events" Url="html/4CF0AFDD.htm">
+          <HelpTOCNode Title="OnButtonChanged Event" Url="html/B0680E52.htm" />
+          <HelpTOCNode Title="OnCntInputChanged Event" Url="html/ECAD0610.htm" />
+          <HelpTOCNode Title="OnCounterChanged Event" Url="html/2BC30961.htm" />
+          <HelpTOCNode Title="OnCounterResetted Event" Url="html/25473CCE.htm" />
+          <HelpTOCNode Title="OnInputChanged Event" Url="html/C01A9E86.htm" />
+          <HelpTOCNode Title="OnMotorExReached Event" Url="html/BEC13479.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="FtMscLibEx.OnButtonChangedEventHandler Delegate" Url="html/2F52BE30.htm" />
+      <HelpTOCNode Title="FtMscLibEx.OnCntInputChangedEventHandler Delegate" Url="html/B7F7536B.htm" />
+      <HelpTOCNode Title="FtMscLibEx.OnCounterChangedEventHandler Delegate" Url="html/5FDA85EB.htm" />
+      <HelpTOCNode Title="FtMscLibEx.OnCounterResettedEventHandler Delegate" Url="html/4DECA81E.htm" />
+      <HelpTOCNode Title="FtMscLibEx.OnInputChangedEventHandler Delegate" Url="html/A2796303.htm" />
+      <HelpTOCNode Title="FtMscLibEx.OnMotorExReachedEventHandler Delegate" Url="html/F5323526.htm" />
+      <HelpTOCNode Id="122319e1-ca59-41ca-aa1b-039bfcacb41b" Title="FtMscLibExBase Class" Url="html/DC8A6005.htm">
+        <HelpTOCNode Id="53777e6f-665a-479e-9c55-9ceb9f1207ec" Title="FtMscLibExBase Fields" Url="html/2D601F86.htm">
+          <HelpTOCNode Title="dllPath Field" Url="html/588D31.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="FtMscLibExBase.DelegateCBButtonChanged Delegate" Url="html/5E2F5542.htm" />
+      <HelpTOCNode Title="FtMscLibExBase.DelegateCBCntInChanged Delegate" Url="html/D28C2AB2.htm" />
+      <HelpTOCNode Title="FtMscLibExBase.DelegateCBCounterChanged Delegate" Url="html/D4996353.htm" />
+      <HelpTOCNode Title="FtMscLibExBase.DelegateCBUniChanged Delegate" Url="html/C80AF09A.htm" />
+      <HelpTOCNode Title="FtMscLibExBase.DelegateCounterResetted Delegate" Url="html/F7F83B0E.htm" />
+      <HelpTOCNode Title="FtMscLibExBase.DelegateMotorExReached Delegate" Url="html/D4433DD7.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="004359fa-dcd8-4ba7-899f-5395b28c9bac" Title="FischerTechnik.FtMscLib.Enumurations" Url="html/6DC1269F.htm">
+      <HelpTOCNode Title="FtCntMode Enumeration" Url="html/593D1ED2.htm" />
+      <HelpTOCNode Title="FtDeviceID Enumeration" Url="html/D472B19E.htm" />
+      <HelpTOCNode Title="FtFastCounterInput Enumeration" Url="html/92E91C02.htm" />
+      <HelpTOCNode Title="FtInput Enumeration" Url="html/F86F3431.htm" />
+      <HelpTOCNode Title="FtInputMode Enumeration" Url="html/9EDB13D7.htm" />
+      <HelpTOCNode Title="FtMotor Enumeration" Url="html/C92CA8E6.htm" />
+      <HelpTOCNode Title="FtMotorDirection Enumeration" Url="html/36A77E4E.htm" />
+      <HelpTOCNode Title="FtOutput Enumeration" Url="html/B50A3F94.htm" />
+      <HelpTOCNode Title="FtOutputStatus Enumeration" Url="html/723C4EB2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="48e5dc7b-2dc6-4610-ab26-45791c9e42b5" Title="FischerTechnik.FtMscLib.Errors" Url="html/B175C9A3.htm">
+      <HelpTOCNode Id="625a821f-7f60-4064-bf0d-85072c1d74b1" Title="FtError Class" Url="html/50DC9C6F.htm">
+        <HelpTOCNode Title="FtError Constructor " Url="html/B8D90EE4.htm" />
+        <HelpTOCNode Id="f1ab0498-6c27-424b-9549-37b8de1d9391" Title="FtError Fields" Url="html/7B44BB5B.htm">
+          <HelpTOCNode Title="FTLIB_ERR_CREATE_EVENT Field" Url="html/A1B55181.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_CREATE_MM_TIMER Field" Url="html/B64587B0.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_DEVICE_IS_OPEN Field" Url="html/439B5EBD.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_DEVICE_NOT_OPEN Field" Url="html/895D68C9.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_FAILED Field" Url="html/CCCB3CC3.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_INVALID_PARAM Field" Url="html/36B60C5.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_LIB_IS_INITIALIZED Field" Url="html/C8607322.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_LIB_IS_NOT_INITIALIZED Field" Url="html/A0208A93.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_NO_MEMORY Field" Url="html/8C4708AB.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_NO_SUCH_DEVICE_INSTANCE Field" Url="html/E7F26112.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_SOME_DEVICES_ARE_OPEN Field" Url="html/226A8ED2.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_SUCCESS Field" Url="html/BF8E2A1B.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_THREAD_IS_RUNNING Field" Url="html/978F422C.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_THREAD_NOT_RUNNING Field" Url="html/B7537B8E.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_THREAD_NOT_STARTABLE Field" Url="html/E8CC4BB4.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_THREAD_SYNCHRONIZED Field" Url="html/166FCF77.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_TIMEOUT Field" Url="html/50BB6C07.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_TIMEOUT_TA Field" Url="html/1C9DB8CC.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UNKNOWN Field" Url="html/F4072475.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UNKNOWN_DEVICE_HANDLE Field" Url="html/A495BA8C.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="92a01811-d735-4c37-8012-4918cf93c183" Title="FtErrorBluetooth Class" Url="html/BE891797.htm">
+        <HelpTOCNode Title="FtErrorBluetooth Constructor " Url="html/A1E4C389.htm" />
+        <HelpTOCNode Id="d9dc3b58-dcd0-4e84-ba2f-ed6bd5c70ee8" Title="FtErrorBluetooth Fields" Url="html/A761A3BC.htm">
+          <HelpTOCNode Title="FTLIB_BT_CON_ACTIVE Field" Url="html/FF7B2106.htm" />
+          <HelpTOCNode Title="FTLIB_BT_CON_INACTIVE Field" Url="html/CE3EC8B3.htm" />
+          <HelpTOCNode Title="FTLIB_BT_CON_NOT_EXISTS Field" Url="html/94CB4B18.htm" />
+          <HelpTOCNode Title="FTLIB_BT_CON_WAIT_BUSY Field" Url="html/4D89A845.htm" />
+          <HelpTOCNode Title="FTLIB_BT_CON_WRONG_ADDR Field" Url="html/6838A183.htm" />
+          <HelpTOCNode Title="FTLIB_BT_INVALID_CONIDX Field" Url="html/C87CF942.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="58d2c309-4e38-4ec6-a360-b8373560e06c" Title="FtErrorI2C Class" Url="html/37C330F9.htm">
+        <HelpTOCNode Title="FtErrorI2C Constructor " Url="html/27346CD.htm" />
+        <HelpTOCNode Id="7a037f73-8852-4757-be4b-0c1e5a07698d" Title="FtErrorI2C Fields" Url="html/7CCFB1A7.htm">
+          <HelpTOCNode Title="FTLIB_I2C_INVALID_DEV_ADDR Field" Url="html/AA660B8D.htm" />
+          <HelpTOCNode Title="FTLIB_I2C_INVALID_FLAGS_ADDRMODE Field" Url="html/F4D671FD.htm" />
+          <HelpTOCNode Title="FTLIB_I2C_INVALID_FLAGS_DATAMODE Field" Url="html/DCFBF1F0.htm" />
+          <HelpTOCNode Title="FTLIB_I2C_INVALID_FLAGS_ERRMODE Field" Url="html/4C27FA9A.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d2962aaf-14af-4bab-a9e5-24fd5af5bc09" Title="FtErrorUpload Class" Url="html/936C5DA9.htm">
+        <HelpTOCNode Title="FtErrorUpload Constructor " Url="html/96B10713.htm" />
+        <HelpTOCNode Id="33273cb1-12c6-4214-a7e8-5cc1d01a3fc5" Title="FtErrorUpload Fields" Url="html/75A34B84.htm">
+          <HelpTOCNode Title="FTLIB_ERR_ACCESS_DENIED Field" Url="html/9CE7AC67.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_FWUPD_GET_FILES Field" Url="html/65ED1A10.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_FWUPD_NO_FILES Field" Url="html/D1994B9C.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_INIT_COM Field" Url="html/AAFD92B1.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_INIT_COM_TIMEOUT Field" Url="html/BC00615C.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_OPEN_COM Field" Url="html/E5CC3EF5.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_REM_CMD_FAILED Field" Url="html/F8530C3F.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_REM_CMD_NOT_SUPPORTED Field" Url="html/1B10D7DB.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_ACK Field" Url="html/93C2250E.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_CANCELED Field" Url="html/13F4A28B.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_DONE Field" Url="html/F8A9DE04.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_FAILED Field" Url="html/A9BE6B24.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_FILE_NOT_OPEN Field" Url="html/68C898AD.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_FILE_READ_ERR Field" Url="html/BBD4BA99.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_FLASHWRITE Field" Url="html/A297910C.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_INVALID_FSIZE Field" Url="html/180FDB26.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_NAK Field" Url="html/93C02501.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_START Field" Url="html/AD35C438.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_UPLOAD_TIMEOUT Field" Url="html/1778DA1C.htm" />
+          <HelpTOCNode Title="FTLIB_ERR_WRONG_HOSTNAME_LEN Field" Url="html/A9280DAE.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_CLEAN_DISK Field" Url="html/CF921226.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_ERR_FILE_READ Field" Url="html/FB719DC1.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_FINISHED Field" Url="html/8404E6D4.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_FLUSH_DISK Field" Url="html/1944EFEC.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_IZ_STEPS Field" Url="html/FE4DC485.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_REM_COMMAND Field" Url="html/AB0B14A8.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_REM_FAILED Field" Url="html/3766A141.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_REM_TIMEOUT Field" Url="html/D4866F6D.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_STARTING Field" Url="html/DFFFCD2A.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_STEP Field" Url="html/B944195B.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_TIMEOUT Field" Url="html/ECA7F9F4.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_UPLOAD_DONE Field" Url="html/50A3336F.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_UPLOAD_FAILED Field" Url="html/4FB7F9BB.htm" />
+          <HelpTOCNode Title="FTLIB_FWUPD_UPLOAD_START Field" Url="html/DDB3DBFF.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="90486758-3935-4d2c-b018-e0c51e2f5022" Title="FischerTechnik.FtMscLib.Events" Url="html/54FC0E0C.htm">
+      <HelpTOCNode Id="22084e25-e8a4-47af-8eb5-cf5e172ad6dd" Title="ButtonChangedEventArgs Class" Url="html/6CC7758E.htm">
+        <HelpTOCNode Title="ButtonChangedEventArgs Constructor " Url="html/84D2CF78.htm" />
+        <HelpTOCNode Id="0e68988c-d68c-4249-bdc3-36d2488abaa1" Title="ButtonChangedEventArgs Properties" Url="html/8F70C424.htm">
+          <HelpTOCNode Title="buttonId Property " Url="html/AC63A3A0.htm" />
+          <HelpTOCNode Title="devId Property " Url="html/7C68F091.htm" />
+          <HelpTOCNode Title="duration Property " Url="html/85C6E877.htm" />
+          <HelpTOCNode Title="pressed Property " Url="html/6D8A0514.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b57740a-1e63-4127-b946-6ce508a39563" Title="CntInputChangedEventArgs Class" Url="html/9BAB626F.htm">
+        <HelpTOCNode Title="CntInputChangedEventArgs Constructor " Url="html/889BCA36.htm" />
+        <HelpTOCNode Id="1df4d1fc-755c-4658-b6e6-41fa134cdc96" Title="CntInputChangedEventArgs Properties" Url="html/630ADBAA.htm">
+          <HelpTOCNode Title="cntId Property " Url="html/B1C2355F.htm" />
+          <HelpTOCNode Title="devId Property " Url="html/BEAF6D3A.htm" />
+          <HelpTOCNode Title="state Property " Url="html/9B829DF7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e104b8db-4713-4ba0-b848-33ca71d1490d" Title="CounterChangedEventArgs Class" Url="html/CC7C6773.htm">
+        <HelpTOCNode Title="CounterChangedEventArgs Constructor " Url="html/E3147A49.htm" />
+        <HelpTOCNode Id="c507941d-d63a-43fc-bd13-657ef6e70de4" Title="CounterChangedEventArgs Properties" Url="html/C194F8B.htm">
+          <HelpTOCNode Title="cntId Property " Url="html/D4551BF3.htm" />
+          <HelpTOCNode Title="count Property " Url="html/A658A775.htm" />
+          <HelpTOCNode Title="devId Property " Url="html/A3AD3566.htm" />
+          <HelpTOCNode Title="mode Property " Url="html/7CCBA76C.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8b14f9d0-ff96-4a4b-a7d7-83415995c0ca" Title="CounterResettedEventArgs Class" Url="html/1B5C7E45.htm">
+        <HelpTOCNode Title="CounterResettedEventArgs Constructor " Url="html/9C486CF.htm" />
+        <HelpTOCNode Id="a8857b59-6251-4432-85d6-abedfdd30017" Title="CounterResettedEventArgs Properties" Url="html/6B665285.htm">
+          <HelpTOCNode Title="cntId Property " Url="html/41CD0D44.htm" />
+          <HelpTOCNode Title="devId Property " Url="html/679EEE7D.htm" />
+          <HelpTOCNode Title="state Property " Url="html/BF13F18E.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e41e2031-16c5-4ac6-ad14-1bd6bdf36e02" Title="InputChangedEventArgs Class" Url="html/5D3384F.htm">
+        <HelpTOCNode Title="InputChangedEventArgs Constructor " Url="html/FC33ED50.htm" />
+        <HelpTOCNode Id="b30e6f31-d0b1-41a4-b07b-6d0e0382c527" Title="InputChangedEventArgs Properties" Url="html/F25EB2E1.htm">
+          <HelpTOCNode Title="devId Property " Url="html/707710C8.htm" />
+          <HelpTOCNode Title="digital Property " Url="html/9E229411.htm" />
+          <HelpTOCNode Title="ioId Property " Url="html/41A81F8D.htm" />
+          <HelpTOCNode Title="mode Property " Url="html/BEC7AAF2.htm" />
+          <HelpTOCNode Title="overrun Property " Url="html/3DE9C33D.htm" />
+          <HelpTOCNode Title="value Property " Url="html/A8CEF4A8.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3a71c3f3-d6aa-45c3-abcc-2c085c3d0c42" Title="MotorReachedEventArgs Class" Url="html/5DFFCC53.htm">
+        <HelpTOCNode Title="MotorReachedEventArgs Constructor " Url="html/7710A8DB.htm" />
+        <HelpTOCNode Id="79266300-2175-4a5c-966c-9b13067d053a" Title="MotorReachedEventArgs Properties" Url="html/EC60F7C2.htm">
+          <HelpTOCNode Title="devId Property " Url="html/DE8AAE70.htm" />
+          <HelpTOCNode Title="mtrIdx Property " Url="html/3585DCC2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e43f7dca-5a2a-4873-89ba-d7c28216841d" Title="FischerTechnik.FtMscLib.Exception" Url="html/E8EF6396.htm">
+      <HelpTOCNode Id="01d36bbd-7c90-4f61-84e5-c031d26c7270" Title="FtMscLibException Class" Url="html/87859D24.htm">
+        <HelpTOCNode Title="FtMscLibException Constructor " Url="html/EA31FB54.htm" />
+        <HelpTOCNode Title="FtMscLibException Methods" Url="html/4B0F0F49.htm" />
+        <HelpTOCNode Title="FtMscLibException Properties" Url="html/D27B2E38.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

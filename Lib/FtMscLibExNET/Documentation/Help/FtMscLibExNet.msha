@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>FtMscLibExNet for .NET framework 4</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">Fischertechnik</span>
+        <span class="locale">en-us</span>
+        <span class="product">FtMscLibExNet</span>
+        <span class="name">FtMscLibExNet for .NET framework 4</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">FtMscLibExNet</span>
+            <a class="current-link" href="FtMscLibExNet.mshc">FtMscLibExNet.mshc</a>
+        </div>
+    </div>
+</body>
+</html>

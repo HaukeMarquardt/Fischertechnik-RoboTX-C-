@@ -1,0 +1,57 @@
+﻿<html><head><link rel="shortcut icon" href="../icons/favicon.ico" /><style type="text/css">.OH_CodeSnippetContainerTabLeftActive, .OH_CodeSnippetContainerTabLeft,.OH_CodeSnippetContainerTabLeftDisabled { }.OH_CodeSnippetContainerTabRightActive, .OH_CodeSnippetContainerTabRight,.OH_CodeSnippetContainerTabRightDisabled { }.OH_footer { }</style><link rel="stylesheet" type="text/css" href="../styles/branding.css" /><link rel="stylesheet" type="text/css" href="../styles/branding-en-US.css" /><script type="text/javascript" src="../scripts/branding.js"></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>FtMscLibExBase.DelegateCBCounterChanged Delegate</title><meta name="Language" content="en-us" /><meta name="System.Keywords" content="FtMscLibExBase.DelegateCBCounterChanged delegate" /><meta name="System.Keywords" content="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBCounterChanged delegate" /><meta name="Microsoft.Help.F1" content="FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBCounterChanged" /><meta name="Microsoft.Help.Id" content="T:FischerTechnik.FtMscLib.API.FtMscLibExBase.DelegateCBCounterChanged" /><meta name="Description" content="3.X7A Callback for the four Fast Counters on the TX-C" /><meta name="Microsoft.Help.ContentType" content="Reference" /><meta name="BrandingAware" content="'true'" /><meta name="container" content="FischerTechnik.FtMscLib.API" /><meta name="file" content="D4996353" /><meta name="guid" content="D4996353" /><meta name="SelfBranded" content="true" /></head><body onload="onLoad()"><div class="OH_outerDiv"><div class="OH_outerContent"><table class="TitleTable"><tr><td class="OH_tdTitleColumn">FtMscLibExBase<span id="ID0EBBABABAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBBABABAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>DelegateCBCounterChanged Delegate</td><td class="OH_tdRunningTitleColumn">FtMscLibExNet for .NET framework 4</td></tr></table><div id="mainSection"><div id="mainBody"><span class="introStyle">Support for fischertechnik TX-controller</span><p style="color: #dc143c; font-size: 8.5pt; font-weight: bold;">[This is preliminary documentation and is subject to change.]</p><div class="summary">
+ 3.X7A Callback for the four Fast Counters on  the TX-C
+ </div><p></p><strong>Namespace:</strong> <a href="49D92C23.htm">FischerTechnik.FtMscLib.API</a><br /><strong>Assembly:</strong> FtMscLibVBNet (in FtMscLibVBNet.dll) Version: 1.0.0.1 (1.0.0.10)<div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Syntax</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><div id="snippetGroup_Syntax" class="code"><div id="ID0ECGDAAABAA" class="OH_CodeSnippetContainer"><div class="OH_CodeSnippetContainerTabs" id="ID0ECGDAAABAA_tabs"><div class="OH_CodeSnippetContainerTabLeftActive" id="ID0ECGDAAABAA_tabimgleft"></div><div id="ID0ECGDAAABAA_tab1" class="OH_CodeSnippetContainerTabActive" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0ECGDAAABAA','C#','1','4');return false;">C#</a></div><div id="ID0ECGDAAABAA_tab2" class="OH_CodeSnippetContainerTab" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0ECGDAAABAA','Visual Basic','2','4');return false;">VB</a></div><div id="ID0ECGDAAABAA_tab3" class="OH_CodeSnippetContainerTab" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0ECGDAAABAA','Visual C++','3','4');return false;">C++</a></div><div id="ID0ECGDAAABAA_tab4" class="OH_CodeSnippetContainerTabDisabledNotFirst" EnableCopyCode="true" disabled="true"><a>F#</a></div><div class="OH_CodeSnippetContainerTabRight" id="ID0ECGDAAABAA_tabimgright"></div></div><div id="ID0ECGDAAABAA_codecollection" class="OH_CodeSnippetContainerCodeCollection"><div class="OH_CodeSnippetToolBar"><div class="OH_CodeSnippetToolBarText"><a id="ID0ECGDAAABAA_copycode" href="#" onclick="javascript:CopyToClipboard('ID0ECGDAAABAA','4')" title="Copy to Clipboard">Copy to Clipboard</a><a id="ID0ECGDAAABAA_PrintText" class="OH_PrintText" href="#" onclick="javascript:Print('ID0ECGDAAABAA','4')" title="Print">Print</a></div></div><div id="ID0ECGDAAABAA_code_Div1" class="OH_CodeSnippetContainerCode" style="display: block"><pre><span class="keyword">public</span> <span class="keyword">delegate</span> <span class="keyword">void</span> <span class="identifier">DelegateCBCounterChanged</span>(
+	<span class="identifier">uint</span> <span class="parameter">devId</span>,
+	<span class="identifier">uint</span> <span class="parameter">cntId</span>,
+	<span class="identifier">uint</span> <span class="parameter">count</span>,
+	<span class="identifier">short</span> <span class="parameter">mode</span>,
+	<span class="identifier">UIntPtr</span> <span class="parameter">context</span>
+)</pre></div><div id="ID0ECGDAAABAA_code_Plain_Div1" class="OH_CodeSnippetContainerCode" style="display: none"><pre>public delegate void DelegateCBCounterChanged(
+	uint devId,
+	uint cntId,
+	uint count,
+	short mode,
+	UIntPtr context
+)</pre></div><div id="ID0ECGDAAABAA_code_Div2" class="OH_CodeSnippetContainerCode" style="display: none"><pre><span class="keyword">Public</span> <span class="keyword">Delegate</span> <span class="keyword">Sub</span> <span class="identifier">DelegateCBCounterChanged</span> ( 
+	<span class="parameter">devId</span> <span class="keyword">As</span> <span class="identifier">UInteger</span>,
+	<span class="parameter">cntId</span> <span class="keyword">As</span> <span class="identifier">UInteger</span>,
+	<span class="parameter">count</span> <span class="keyword">As</span> <span class="identifier">UInteger</span>,
+	<span class="parameter">mode</span> <span class="keyword">As</span> <span class="identifier">Short</span>,
+	<span class="parameter">context</span> <span class="keyword">As</span> <span class="identifier">UIntPtr</span>
+)</pre></div><div id="ID0ECGDAAABAA_code_Plain_Div2" class="OH_CodeSnippetContainerCode" style="display: none"><pre>Public Delegate Sub DelegateCBCounterChanged ( 
+	devId As UInteger,
+	cntId As UInteger,
+	count As UInteger,
+	mode As Short,
+	context As UIntPtr
+)</pre></div><div id="ID0ECGDAAABAA_code_Div3" class="OH_CodeSnippetContainerCode" style="display: none"><pre><span class="keyword">public</span> <span class="keyword">delegate</span> <span class="keyword">void</span> <span class="identifier">DelegateCBCounterChanged</span>(
+	<span class="identifier">unsigned int</span> <span class="parameter">devId</span>, 
+	<span class="identifier">unsigned int</span> <span class="parameter">cntId</span>, 
+	<span class="identifier">unsigned int</span> <span class="parameter">count</span>, 
+	<span class="identifier">short</span> <span class="parameter">mode</span>, 
+	<span class="identifier">UIntPtr</span> <span class="parameter">context</span>
+)</pre></div><div id="ID0ECGDAAABAA_code_Plain_Div3" class="OH_CodeSnippetContainerCode" style="display: none"><pre>public delegate void DelegateCBCounterChanged(
+	unsigned int devId, 
+	unsigned int cntId, 
+	unsigned int count, 
+	short mode, 
+	UIntPtr context
+)</pre></div><div id="ID0ECGDAAABAA_code_Div4" class="OH_CodeSnippetContainerCode" style="display: none"><pre /></div><div id="ID0ECGDAAABAA_code_Plain_Div4" class="OH_CodeSnippetContainerCode" style="display: none"><pre /></div></div></div><script>addSpecificTextLanguageTagSet('ID0ECGDAAABAA');</script></div><h4 class="subHeading">Parameters</h4><dl paramName="devId"><dt><span class="parameter">devId</span></dt><dd>Type: <span class="nolink">System<span id="ID0EBCAEDAAABAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCAEDAAABAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>UInt32</span><br /><span>controller ID (master or extension controller)</span></dd></dl><dl paramName="cntId"><dt><span class="parameter">cntId</span></dt><dd>Type: <span class="nolink">System<span id="ID0EBCADDAAABAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCADDAAABAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>UInt32</span><br /><span>index of the Counter input (0 =C1 to 3=C4)</span></dd></dl><dl paramName="count"><dt><span class="parameter">count</span></dt><dd>Type: <span class="nolink">System<span id="ID0EBCACDAAABAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCACDAAABAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>UInt32</span><br /><span>actual counter value</span></dd></dl><dl paramName="mode"><dt><span class="parameter">mode</span></dt><dd>Type: <span class="nolink">System<span id="ID0EBCABDAAABAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCABDAAABAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>Int16</span><br /><span>Mode (see TA_CONFIG struct 9.5)</span></dd></dl><dl paramName="context"><dt><span class="parameter">context</span></dt><dd>Type: <span class="nolink">System<span id="ID0EBCAADAAABAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCAADAAABAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>UIntPtr</span><br /><span>pointer to the context</span></dd></dl><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Remarks</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><a name="seeAlsoSection"></a><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">See Also</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><h4 class="subHeading">Reference</h4><div class="seeAlsoStyle"><a href="49D92C23.htm">FischerTechnik.FtMscLib.API Namespace</a></div></div></div></div></div><div id="OH_footer" class="OH_footer">include native sensor events<p><a href="http://web.inter.nl.net/users/Ussel-IntDev/" target="_blank">© 2014 Ussel-Educ for Fischertechnik GmbH</a></p><div class="OH_feedbacklink">Send comments on this topic to
+        <a id="HT_MailLink" href="mailto:ft.info%40inter.nl.net?Subject=FtMscLibExNet for .NET framework 4">E-mail use about your experciances with this help.</a></div><script type="text/javascript">
+        var HT_mailLink = document.getElementById("HT_MailLink");
+        var HT_mailLinkText = HT_mailLink.innerHTML;
+        HT_mailLink.href += ": " + document.title + "\u0026body=" + encodeURIComponent("Your feedback is used to improve the documentation and the product. Your e-mail address will not be used for any other purpose and is disposed of after the issue you report is resolved. While working to resolve the issue that you report, you may be contacted via e-mail to get further details or clarification on the feedback you sent. After the issue you report has been addressed, you may receive an e-mail to let you know that your feedback has been addressed.");
+        HT_mailLink.innerHTML = HT_mailLinkText;
+        </script></div></body></html>
